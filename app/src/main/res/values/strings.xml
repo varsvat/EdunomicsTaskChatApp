@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Edunomics_Task</string>
+    <string-array name="autocompletelist">
+        <item>Apple</item>
+        <item>React</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>MongoDB</item>
+        <item>Firebase</item>
+        <item>REST APIs</item>
+        <item>Node</item>
+        <item>Google</item>
+        <item>Php</item>
+        <item>Cloud computing</item>
+        <item>Cybersecurity</item>
+        <item>Application development and programming</item>
+        <item>Networking and wireless </item>
+        <item>Analytics and data management </item>
+        <item>Systems and enterprise architecture </item>
+        <item>Project management </item>
+        <item>AI and machine learning</item>
+        <item>Service desk and tech support </item>
+        <item>Virtualization </item>
+        <item>Adobe Reader</item>
+    </string-array>
+</resources>
